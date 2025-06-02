@@ -13,7 +13,7 @@ namespace TheCricketSeasonScheduler.BLogic
 {
     public class CricketService
     {
-        private static readonly HttpClient client = new HttpClient();
+       // private static readonly HttpClient client = new HttpClient();
 
         public List<StandingTable> GetTeamDataBySeasonId(string username, string password, string seasonId)
         {
