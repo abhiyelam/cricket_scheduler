@@ -1,0 +1,12 @@
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\TheCricketSeasonScheduler.exe.config
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\TheCricketSeasonScheduler.exe
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\TheCricketSeasonScheduler.pdb
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\Newtonsoft.Json.dll
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\obj\Debug\TheCricketSeasonScheduler.csproj.AssemblyReference.cache
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\obj\Debug\TheCricketSeasonScheduler.csproj.CoreCompileInputs.cache
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\obj\Debug\TheCricketSeasonScheduler.csproj.CopyComplete
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\obj\Debug\TheCricketSeasonScheduler.exe
+D:\php\TFSV1\TheCricketSeasonScheduler\TheCricketSeasonScheduler\obj\Debug\TheCricketSeasonScheduler.pdb
